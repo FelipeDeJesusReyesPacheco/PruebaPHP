@@ -7,9 +7,11 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Prueba PHP</title>
+        <link rel="stylesheet" href="css/estilos.css">
     </head>
     <body>
+        <h1>Títul</h1>
         <?php
         echo "Hola mundo!";
         ?>
