@@ -8,6 +8,8 @@ and open the template in the editor.
     Author     : Hp
 */
 
-body{
-    background-color: #ccffcc;
+canvas {
+    width: 500px;
+    height: 500px;
+    background-color: #0D0909;
 }
