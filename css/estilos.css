@@ -8,7 +8,8 @@ and open the template in the editor.
     Author     : Hp
 */
 body{
-    background-color: blue;
+    background-color: lightgray;
+    font-family: serif;
 }
 canvas {
     width: 500px;
